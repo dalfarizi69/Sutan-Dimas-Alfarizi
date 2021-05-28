@@ -1,3 +1,3 @@
-# xepatan.github.io
+# cvxepatan.github.io
 My Curriculum Vitae
-link : xepatan.github.io
+link : cvxepatan.github.io
