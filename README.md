@@ -1,3 +1,3 @@
-# Sutan-Dimas-Alfarizi.github.io
+# xepatan.github.io
 My Curriculum Vitae
-link : Sutan-Dimas-Alfarizi.github.io
+link : xepatan.github.io
