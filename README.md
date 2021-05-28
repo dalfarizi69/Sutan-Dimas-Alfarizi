@@ -1,3 +1,3 @@
-# SDACV.github.io
+# Sutan-Dimas-Alfarizi.github.io
 My Curriculum Vitae
-link : SDACV.github.io
+link : Sutan-Dimas-Alfarizi.github.io
